@@ -30,6 +30,10 @@
     "type": "git",
     "url": "git+https://github.com/udbhavbalaji/catchresult.git"
   },
+  "bugs": {
+    "url": "https://github.com/udbhavbalaji/catchresult/issues"
+  },
+  "homepage": "https://github.com/udbhavbalaji/catchresult/#readme",
   "devDependencies": {
     "@types/bun": "latest",
     "tsup": "^8.5.0"
