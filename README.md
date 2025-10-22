@@ -1,4 +1,4 @@
-# unwrap-result
+# catchresult
 
 To install dependencies:
 

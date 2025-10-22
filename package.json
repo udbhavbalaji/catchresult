@@ -14,7 +14,8 @@
     }
   },
   "scripts": {
-    "build": "bunx tsup src/index.ts --format esm,cjs --dts"
+    "build": "bunx tsup src/index.ts --format esm,cjs --dts",
+    "prepublishOnly": "bun scripts/prepublish.js"
   },
   "files": [
     "dist",
@@ -30,6 +31,10 @@
     "type": "git",
     "url": "git+https://github.com/udbhavbalaji/catchresult.git"
   },
+  "bugs": {
+    "url": "https://github.com/udbhavbalaji/catchresult/issues"
+  },
+  "homepage": "https://github.com/udbhavbalaji/catchresult/#readme",
   "devDependencies": {
     "@types/bun": "latest",
     "tsup": "^8.5.0"
