@@ -1,0 +1,19 @@
+{
+  "checked": [],
+  "unchecked": [
+    {
+      "checked": false,
+      "description": "add unwrap and unwrapAsync method to unwrap results",
+      "priority": "HIGH",
+      "createdAt": "2025-10-21T22:45:04.191Z",
+      "updatedAt": "2025-10-21T22:45:04.196Z"
+    },
+    {
+      "checked": false,
+      "description": "create get wrapped function method, returning the result of the function wrapped in result",
+      "priority": "HIGH",
+      "createdAt": "2025-10-21T22:46:48.275Z",
+      "updatedAt": "2025-10-21T22:46:48.276Z"
+    }
+  ]
+}
