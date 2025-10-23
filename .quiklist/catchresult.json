@@ -1,13 +1,14 @@
 {
-  "checked": [],
-  "unchecked": [
+  "checked": [
     {
-      "checked": false,
+      "checked": true,
       "description": "add unwrap and unwrapAsync method to unwrap results",
       "priority": "HIGH",
       "createdAt": "2025-10-21T22:45:04.191Z",
-      "updatedAt": "2025-10-21T22:45:04.196Z"
-    },
+      "updatedAt": "2025-10-23T00:49:55.024Z"
+    }
+  ],
+  "unchecked": [
     {
       "checked": false,
       "description": "create get wrapped function method, returning the result of the function wrapped in result",
