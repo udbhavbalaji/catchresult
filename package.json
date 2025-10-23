@@ -1,6 +1,6 @@
 {
   "name": "catchresult",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Handle neverthrow's Result type with ease!",
   "module": "dist/index.js",
   "main": "dist/index.cjs",
