@@ -19,7 +19,7 @@ export type ErrorReturnType<T> = T;
 export type ErrorHandler<T extends ErrorReturnTypes = any> = (
   // export type ErrorHandler<T = any> = (
   error: unknown,
-  args?: Record<string, any>,
+  context?: Record<string, any>,
   // ) => ErrorReturnType<T>;
 ) => T;
 
